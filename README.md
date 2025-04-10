@@ -1,4 +1,4 @@
-# gestion ecole
+# gestion ecole api rest
 
 _etudiant_
 - create **ok**
